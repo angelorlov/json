@@ -21,17 +21,55 @@
       "cover":"https://teleportal.ua/storage/editor/fotos/vskrytie-pokazhet_1613056732798.jpeg"
     }
   ],
-  "comments": [
+  "show": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
+     "id":1,
+     "name":"Сліпа",
+     "url":"https://teleportal.ua/serials/stb/slipa",
+     "image":"https://teleportal.ua/storage/editor/fotos/vskrytie-pokazhet_1613056744419.jpeg",
+     "logo_top":"https://teleportal.ua/",
+     "channel" : "СТБ",
+     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
+     "id":1,
+     "name":"Сліпа",
+     "url":"https://teleportal.ua/serials/stb/slipa",
+     "image":"https://teleportal.ua/storage/editor/fotos/slepaya_1581325982451.jpeg",
+     "logo_top":"https://teleportal.ua/",
+     "channel" : "СТБ",
+     },
+    {
+     "id":1,
+     "name":"Сліпа",
+     "url":"https://teleportal.ua/serials/stb/slipa",
+     "image":"https://teleportal.ua/storage/editor/fotos/na-troih_1580909826728.jpeg",
+     "logo_top":"https://teleportal.ua/",
+     "channel" : "СТБ",
+     },
+    {
+     "id":1,
+     "name":"Сліпа",
+     "url":"https://teleportal.ua/serials/stb/slipa",
+     "image":"https://teleportal.ua/storage/editor/fotos/mama_1612951163373.jpeg",
+     "logo_top":"https://teleportal.ua/",
+     "channel" : "СТБ",
+     },
+    {
+     "id":1,
+     "name":"Сліпа",
+     "url":"https://teleportal.ua/serials/stb/slipa",
+     "image":"https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
+     "logo_top":"https://teleportal.ua/",
+     "channel" : "СТБ",
+     },
+    {
+     "id":1,
+     "name":"Сліпа",
+     "url":"https://teleportal.ua/serials/stb/slipa",
+     "image":"https://teleportal.ua/storage/editor/fotos/schastliva-vopreki_1612892917402.jpeg",
+     "logo_top":"https://teleportal.ua/",
+     "channel" : "СТБ",
+     },
   ],
   "profile": {
     "name": "typicode"
